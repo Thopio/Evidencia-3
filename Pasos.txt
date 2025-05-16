@@ -1,0 +1,11 @@
+Método de Bisección:
+
+Preguntar por el rango a escoger.
+
+Sustituir la ecuación con los dos rango y el resultado multiplicarlos entre si.
+
+Si el resultado es mayor a 0 cambiar el rango menor, si el resultado es menor a 0 cambiar el rango mayor.
+
+El rango se cambiará después de obtener el resultado del rango menor mas el mayor y dividir entre 2.
+
+Repetir hasta que usando los xr nos de porcentaje de error menor a 1.
